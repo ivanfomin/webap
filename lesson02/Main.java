@@ -1,6 +1,6 @@
 package lesson02;
 
-import ru.javawebinar.webapp.model.Link;
+import javawebinar.webapp.model.Link;
 
 /**
  * GKislin
@@ -23,7 +23,7 @@ public class Main {
         System.out.println(Link.empty());
         char c = 'A';
         Integer obj = null;
-        printInt(obj);
+       // printInt(obj);
     }
 
 /*
