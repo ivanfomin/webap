@@ -5,6 +5,6 @@ package lesson02;
  */
 public class Clas {
     public static void main(String[] args) {
-
+        System.out.println("Hello World!!!");
     }
 }
