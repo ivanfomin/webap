@@ -9,6 +9,8 @@ import javawebinar.webapp.model.Link;
 public class Main {
     public static void main(String[] args) {
         Main m = new Main();
+        Main m1 = new Main();
+//        m1.main("a b".split(""));
 
         int i = 5;
         Link l1 = new Link("JavaWebinar", "javawebinar.ru");
@@ -23,7 +25,7 @@ public class Main {
         System.out.println(Link.empty());
         char c = 'A';
         Integer obj = null;
-       // printInt(obj);
+        printInt(c);
     }
 
 /*
